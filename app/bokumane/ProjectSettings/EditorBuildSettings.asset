@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: 2d131916b8ee27c499a40969321dcdc7
+  - enabled: 1
+    path: Assets/Scenes/SkilScene.unity
+    guid: 829f878f5d83f03438d66fc9caade13e
+  - enabled: 1
+    path: Assets/Scenes/DangeonScene.unity
+    guid: b0e9ab11c1159004c993db00c7a8d3a9
+  - enabled: 1
+    path: Assets/Scenes/ListScene.unity
+    guid: 30deccea3def778488cdfbded508c753
+  - enabled: 1
+    path: Assets/Scenes/StatusScene.unity
+    guid: 2aadbe6e5822d4147bc6542855a31c26
+  - enabled: 1
+    path: Assets/Scenes/TimerScene.unity
+    guid: 9b240a9b6a4c4d84baa531e49fce4207
+  - enabled: 1
+    path: Assets/Scenes/TimetableScene.unity
+    guid: ebde0ad6af6fb3642b242b241acc4c55
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/M/NewM1Scene.unity
+    guid: e8e0dcb535a90ed48b17da5a1cf5baf0
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/M/NewM2Scene.unity
+    guid: d08a36759d32780439412d62fa4cef71
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/M/NewM3Scene.unity
+    guid: 6bfec0e20a3680f4b827568918121786
+  - enabled: 1
+    path: Assets/Scenes2/gameclear.unity
+    guid: 6ef34d8305c76dc4daaacc2db9fbf9bc
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/M/NewM4Scene.unity
+    guid: 1ead2a89ebe71664f896aae985914c3b
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/M/NewM5Scene.unity
+    guid: 9df9dae50cdd17545abb6ee13ba2640d
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/Tu/NewTu1Scene.unity
+    guid: 56c1eb11c3df45244ae269c291bd56c2
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/Tu/NewTu2Scene.unity
+    guid: 682941be53df6ad41aecfd3725ca90bd
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/Tu/NewTu3Scene.unity
+    guid: ccda231714b0e914b9681233d99448a8
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/Tu/NewTu4Scene.unity
+    guid: d59d767901771c841bb30e603aa083ad
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/Tu/NewTu5Scene.unity
+    guid: f8233d0b38bf7f14587b31b3d26fbbba
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/W/NewW1Scene.unity
+    guid: 174df7cbb39c5564480f24b35e7a4cd6
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/W/NewW2Scene.unity
+    guid: 2ce31af6460523f4d96b944a804f17b1
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/W/NewW3Scene.unity
+    guid: d9d0bdde9f4ef2941968dea653141f93
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/W/NewW4Scene.unity
+    guid: 9643c90d1afe90e44808f16aefb534d2
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/W/NewW5Scene.unity
+    guid: d8a8497885ea8e948b873a7c178a9da1
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/Th/NewTh1Scene.unity
+    guid: 33d582ae5d2c74d4ea7433318c8dd650
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/Th/NewTh2Scene.unity
+    guid: 3bf3d2a9532ce69438a5438108d126e7
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/Th/NewTh3Scene.unity
+    guid: cd7761ab1d17a334bbcdeb7eb3f4e03d
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/Th/NewTh4Scene.unity
+    guid: ea9c56bc84a9cde4999cc62aed783e56
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/Th/NewTh5Scene.unity
+    guid: 2f723bcb5ddfeec43a80901a5d8b5ef1
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/F/NewF1Scene.unity
+    guid: 70126d1b55179664f84c2b5e2c3b41e3
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/F/NewF2Scene.unity
+    guid: 4ee550a3cdd8a814f859b571f518fb0f
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/F/NewF3Scene.unity
+    guid: 5c7984c29e2722149938596f44d9a827
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/F/NewF4Scene.unity
+    guid: 33aa633c618976046ac774addd824ef0
+  - enabled: 1
+    path: Assets/Scenes/NewPorA/F/NewF5Scene.unity
+    guid: babeac5f65cc12f47b23242127cae6c1
+  - enabled: 1
+    path: Assets/Scenes/PorA/M/PorAM1.unity
+    guid: c510e91e4f64afc41a4e9ee079cd05d6
+  - enabled: 1
+    path: Assets/Scenes/PorA/M/PorAM2.unity
+    guid: e796a14039bcb9a4da9a6b3c3c7dfb80
+  - enabled: 1
+    path: Assets/Scenes/PorA/M/PorAM3.unity
+    guid: 3ed5d12e1a078fd42975e05614ddaccd
+  - enabled: 1
+    path: Assets/Scenes/PorA/M/PorAM4.unity
+    guid: 5622789895d24a44aaeea0771ff4135e
+  - enabled: 1
+    path: Assets/Scenes/PorA/M/PorAM5.unity
+    guid: a592f9ec539450241a7afcf2fcd69295
+  - enabled: 1
+    path: Assets/Scenes/PorA/Tu/PorATu1.unity
+    guid: f6172d325428f1e459ca98ccf4a4bb4e
+  - enabled: 1
+    path: Assets/Scenes/PorA/Tu/PorATu2.unity
+    guid: 1d6259f29694e084cb5c0fb4be61de9e
+  - enabled: 1
+    path: Assets/Scenes/PorA/Tu/PorATu3.unity
+    guid: 540fd96e1e522d14bb4e6539fcc53d71
+  - enabled: 1
+    path: Assets/Scenes/PorA/Tu/PorATu4.unity
+    guid: 104b735960ccc6343b3e806fbb595235
+  - enabled: 1
+    path: Assets/Scenes/PorA/Tu/PorATu5.unity
+    guid: 14445d8f82fea4040a8b8e9ac6b76720
+  - enabled: 1
+    path: Assets/Scenes/PorA/W/PorAW1.unity
+    guid: b403cca61851fa04ab96f41f7f656f5f
+  - enabled: 1
+    path: Assets/Scenes/PorA/W/PorAW2.unity
+    guid: eacbe82b79f35c94b9979d8f0db50911
+  - enabled: 1
+    path: Assets/Scenes/PorA/W/PorAW3.unity
+    guid: b2f4497331fa1b14291be16481e54929
+  - enabled: 1
+    path: Assets/Scenes/PorA/W/PorAW4.unity
+    guid: d1a6c2b83b7ec624480ab96361ea02ba
+  - enabled: 1
+    path: Assets/Scenes/PorA/W/PorAW5.unity
+    guid: 57452f53ea6cb094fb2f241f0b32612e
+  - enabled: 1
+    path: Assets/Scenes/PorA/Th/PorATh1.unity
+    guid: 1dcaa07bc733a234bbaa80d682ba9c66
+  - enabled: 1
+    path: Assets/Scenes/PorA/Th/PorATh2.unity
+    guid: 133afd8c17a27ad46b33eda31baee4ae
+  - enabled: 1
+    path: Assets/Scenes/PorA/Th/PorATh3.unity
+    guid: 518ed764ab92f7949af1046da2ae9d79
+  - enabled: 1
+    path: Assets/Scenes/PorA/Th/PorATh4.unity
+    guid: 1071dbb6964d17d47a5d5a737ec6a07a
+  - enabled: 1
+    path: Assets/Scenes/PorA/Th/PorATh5.unity
+    guid: 2da857c1093f203479edf663216a6c5e
+  - enabled: 1
+    path: Assets/Scenes/PorA/F/PorAF1.unity
+    guid: e7d1eab2e0308bb49b8b2af35d1a7bd6
+  - enabled: 1
+    path: Assets/Scenes/PorA/F/PorAF2.unity
+    guid: 891edf9ce24ac0a4799da2b4545cdbc8
+  - enabled: 1
+    path: Assets/Scenes/PorA/F/PorAF3.unity
+    guid: 786eb34e1d7870e46b67a169480aebd1
+  - enabled: 1
+    path: Assets/Scenes/PorA/F/PorAF4.unity
+    guid: 8cc5b49e4dc73ba439af1ab6972f207a
+  - enabled: 1
+    path: Assets/Scenes/PorA/F/PorAF5.unity
+    guid: e7cac7b3e10ba69449be0e0df17c4b0f
+  - enabled: 1
+    path: Assets/Scenes/NameScene.unity
+    guid: 5f9d0873844faf14aa71768d22ecdc07
+  - enabled: 1
+    path: Assets/Scenes2/Battle1-1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes2/Battle1-2.unity
+    guid: a0a8f0666c1a6d44c93823a934fc9ee2
+  - enabled: 1
+    path: Assets/Scenes2/Battle1-3.unity
+    guid: dac311719f32d244d820defaef0f6bbf
+  - enabled: 1
+    path: Assets/Scenes2/Sentaku.unity
+    guid: 030bed7a2d781a245a3ee556e07d9e00
+  - enabled: 1
+    path: Assets/Scenes2/Battle2-1.unity
+    guid: 817c922efb07e454597e916913d21ea9
+  - enabled: 1
+    path: Assets/Scenes2/Battle2-2.unity
+    guid: 754bf26ca81539e478c5968a65d19e65
+  - enabled: 1
+    path: Assets/Scenes2/Battle2-3.unity
+    guid: 39cc9c139c6d53c4d8d469e32e39da39
+  - enabled: 1
+    path: Assets/Scenes2/Battle3-1.unity
+    guid: 61310161b9496364a9a23d7001359a11
+  - enabled: 1
+    path: Assets/Scenes2/Battle3-2.unity
+    guid: 8b31bc69bef854544bfa853369e1cfa6
+  - enabled: 1
+    path: Assets/Scenes2/Battle3-3.unity
+    guid: 5f8b17dd108a9f44cbff529b09d896b8
+  - enabled: 1
+    path: Assets/Scenes2/Battle4-1.unity
+    guid: deeb8d72b4cc2d443be6abaf199d226b
+  - enabled: 1
+    path: Assets/Scenes2/Battle4-2.unity
+    guid: 2fd11df344c877b4ba10e34a14763898
+  - enabled: 1
+    path: Assets/Scenes2/Battle4-3.unity
+    guid: 2f414642c3e80344c8a8f7f71144499d
+  - enabled: 1
+    path: Assets/Scenes2/Battle5-1.unity
+    guid: 7b5c9ceabbbd1cf449d57ac28cc09c97
+  - enabled: 1
+    path: Assets/Scenes2/Battle5-2.unity
+    guid: 3ea14f827ba8fa840ab686143c675144
+  - enabled: 1
+    path: Assets/Scenes2/Battle5-3.unity
+    guid: 90cb7d50eff34e14cadb4fbfb97acfa6
+  - enabled: 1
+    path: Assets/Scenes2/gameover.unity
+    guid: fcac8e3d634f42e478fa81c202a58f95
+  - enabled: 1
+    path: Assets/Scenes2/Soubi.unity
+    guid: 92a31a5f867f2974e89b4ae57604bca2
+  m_configObjects: {}
